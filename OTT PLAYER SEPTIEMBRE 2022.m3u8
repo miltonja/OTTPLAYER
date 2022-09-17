@@ -1,0 +1,269 @@
+#EXTM3U
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://i.postimg.cc/Qx5tJKyW/logo-caracol2-0.png",Caracol HD
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/768
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.postimg.cc/PJ8d7Ndd/Premier-League-Logo4.png",La Liga Premier | Paramount+
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62d816fcf24d280008762ee9/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="MUNDO" tvg-logo="https://i.postimg.cc/zB6rXbZh/axn.png",AXN
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/765
+#EXTINF:-1 group-title="MUNDO" tvg-logo="https://i.postimg.cc/BZ5Z8fLx/1200px-Cinemax-Yellow-svg.png",CINEMAX HD
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/769
+#EXTINF:-1 group-title="MUNDO" tvg-logo="https://i.postimg.cc/wT67zY4F/DISCOVERY-SCIENCE.png",DISCOVERY SCIENCE
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/770
+#EXTINF:-1 group-title="MUNDO" tvg-logo="https://i.postimg.cc/0N0sw7PQ/DISCOVERY-CHANNEL.png",Discovery Channel US
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1125
+#EXTINF:-1 group-title="MUNDO" tvg-logo="https://i.postimg.cc/SK0nVQkV/univision-noticias.png",UNIVISION USA HD
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/668
+#EXTINF:-1 group-title="MUNDO" tvg-logo="https://i.postimg.cc/ncqc2fqp/1200px-DAZN-F1-logo-svg.png",FORMULA 1
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/698
+#EXTINF:-1 group-title="MUNDO" tvg-logo="https://i.postimg.cc/8c2G9wjg/800px-GOLTV.png",goltv esp
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/559
+#EXTINF:-1 group-title="MUNDO" tvg-logo="https://i.postimg.cc/FR2cC5gr/Logo-Eurochannel-Blue.png",EUROCHANNEL
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/772
+#EXTINF:-1 group-title="MUNDO" tvg-logo="https://i.postimg.cc/g03PL3Sg/logo-ch-azteca-cinema.png",AZTECA CINEMA
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/766
+#EXTINF:-1 group-title="MUNDO" tvg-logo="https://i.postimg.cc/TYsbG0qK/azteca-uno.png",AZTECA UNO
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/678
+#EXTINF:-1 group-title="MUNDO" tvg-logo="https://i.postimg.cc/NF4V74mx/1200px-Espn-deportes-svg.png",ESPN Deportes
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1124
+#EXTINF:-1 group-title="MUNDO" tvg-logo="https://i.postimg.cc/bw2gqgrF/Glitzlogo.png",GLITZ
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1123
+#EXTINF:-1 group-title="MUNDO" tvg-logo="https://i.postimg.cc/ZKYmXVFr/1200px-Discovery-Family-logo-svg.png",DISCOVERYFAMENG
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/509
+#EXTINF:-1 group-title="MUNDO" tvg-logo="https://i.postimg.cc/jjfYy9tr/1200px-Discovery-Familia-logo-svg.png",DISCOVERYFAMSPA
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/510
+#EXTINF:-1 group-title="MUNDO" tvg-logo="https://i.postimg.cc/Bnp53CCP/ADRENALINA-SPORTS.png",ADRENALINA ESPORTS
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/726
+#EXTINF:-1 group-title="MUNDO" tvg-logo="https://i.postimg.cc/qqrpqNBP/Estrella-TV-Logo-2020.png",ESTRELLATV
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/697
+#EXTINF:-1 group-title="MUNDO" tvg-logo="https://i.postimg.cc/76HKQ27f/CANAL-DE-LAS-ESTRELLAS.png",Canal De Las Estrellas
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/682
+#EXTINF:-1 group-title="MUNDO" tvg-logo="https://i.postimg.cc/ZY966f47/CNN-ESPA-OL-BLANCO.png",CNN ESPAÑOL
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/684
+#EXTINF:-1 group-title="MUNDO" tvg-logo="https://i.postimg.cc/gJPXWkh7/TVC-Deportes-2016.png",TVC DEPORTES
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/761
+#EXTINF:-1 group-title="MUNDO" tvg-logo="https://i.postimg.cc/TY3XWK42/bein-sports-12.png",BEIN SPORTS ENG HD
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/488
+#EXTINF:-1 group-title="MUNDO" tvg-logo="https://i.postimg.cc/zfX9vnrZ/TUDN-LOGO-COLOR.png",TDN DEPORTES
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/722
+#EXTINF:-1 group-title="MUNDO" tvg-logo="https://i.postimg.cc/02ymtjP5/1200px-Antena-3-Internacional-logo-2017-svg.png",ANTENA3
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/484
+#EXTINF:-1 group-title="MUNDO" tvg-logo="https://i.postimg.cc/vHs7FwfC/BEIN-SPORTS-EXTRA-1.png",BEIN ESPANIOL HD
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/487
+#EXTINF:-1 group-title="MUNDO" tvg-logo="https://i.postimg.cc/59kGKd1v/channel-203.png",Animal HD (ENG)
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/730
+#EXTINF:-1 group-title="MUNDO" tvg-logo="https://i.postimg.cc/MZM2SK9t/espn22.png",ESPN 2 HD (ENG)
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/733
+#EXTINF:-1 group-title="MUNDO" tvg-logo="https://i.postimg.cc/yd2GdcLj/375419690-IDDiscovery-Latinoamerica-png-0b9d81534f417ef49bd6f41ade2026b4.png",Investigation Discovery ID
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/735
+#EXTINF:-1 group-title="MUNDO" tvg-logo="https://i.postimg.cc/fT5q1GxD/WSNS44.png",TELEMUNDO44
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/654
+#EXTINF:-1 group-title="MUNDO" tvg-logo="https://i.postimg.cc/pV3KrqRz/image.png",TELEMUNDOLA
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/656
+#EXTINF:-1 group-title="MUNDO" tvg-logo="https://i.postimg.cc/0NHb3yND/TLMD-48-On-Light-3x-1.png",TELEMUNDO48
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/655
+#EXTINF:-1 group-title="MUNDO" tvg-logo="https://i.postimg.cc/MK8Xg4zP/WNJU-Telemundo-47-logo.png",TELEMUNDONEWYORK
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/658
+#EXTINF:-1 group-title="MUNDO" tvg-logo="https://i.postimg.cc/7Z9V50B4/960px-Logo-Uni-M-s-svg.png",UNIMAS HD
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/663
+#EXTINF:-1 group-title="MUNDO" tvg-logo="https://i.postimg.cc/FHhbnnjM/UNIVERSO-LOGO-color-black.png",UNIVERSO
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/665
+#EXTINF:-1 group-title="MUNDO" tvg-logo="https://i.postimg.cc/brPD0FJB/Univision-Deportes-2019-logo.png",UNIVISION SPORTS   ULTIMO
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/666
+#EXTINF:-1 group-title="MUNDO" tvg-logo="https://i.postimg.cc/TwMpGHr3/xite-logo.png",XITE
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/672
+#EXTINF:-1 group-title="MUNDO" tvg-logo="https://i.postimg.cc/nrTz4FNX/Logo-XITE-2017-zwart.png",XITEROCK
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/673
+#EXTINF:-1 group-title="MUNDO" tvg-logo="https://i.postimg.cc/g2hKK1kY/1200px-MTVU-Logo-2016-present-svg.png",XITEVIBE
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/674
+#EXTINF:-1 group-title="MUNDO" tvg-logo="https://img.usanetwork.com/sites/nbcunbc/files/images/2019/3/08/USA-Logo-White-450x198.png",5USA HD
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/481
+#EXTINF:-1 group-title="MUNDO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/BBC_America_2022.svg/1200px-BBC_America_2022.svg.png",BBC AME HD (ENG)
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/679
+#EXTINF:-1 group-title="MUNDO" tvg-logo="https://i.postimg.cc/ZqQr9MNX/AFIZZIONADOS.png",AFIZZIONADOS
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/729
+#EXTINF:-1 group-title="MUNDO" tvg-logo="https://i.postimg.cc/XvwPxnYw/Bravo-TV.png",Bravo (ENG)
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/489
+#EXTINF:-1 group-title="MUNDO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/DistritoComediaLOGO2018.png",DISTRITO COMEDIA
+http://us1-external-sources.iptvserver.tvhttps://i.postimg.cc/pT9MZg3x/ENTERTAIMENT.png:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/691
+#EXTINF:-1 group-title="MUNDO" tvg-logo="https://i.postimg.cc/pT9MZg3x/ENTERTAIMENT.png",E! Entertaiment USA
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/516
+#EXTINF:-1 group-title="MUNDO" tvg-logo="https://i.postimg.cc/Gmx8t7Tk/ESPN-VIVO.png",ESPN1
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/520
+#EXTINF:-1 group-title="MUNDO" tvg-logo="https://i.postimg.cc/7brJKS7s/image.png",FREEFORM
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/548
+#EXTINF:-1 group-title="MUNDO" tvg-logo="https://i.postimg.cc/pV85TpTp/FX-logo.png",FX
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/708
+#EXTINF:-1 group-title="MUNDO" tvg-logo="https://i.postimg.cc/s2VBvppy/Telemundo-51-2018.png",TELEMUNDOMIAMI
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/657
+#EXTINF:-1 group-title="MUNDO" tvg-logo="https://i.postimg.cc/CK0dBjpJ/hgtv-svg-0.png",HGTV (ENG)
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/564
+#EXTINF:-1 group-title="MUNDO" tvg-logo="https://i.postimg.cc/y8skWmHj/1611233.png",History HD (ENG)
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/565
+#EXTINF:-1 group-title="MUNDO" tvg-logo="https://i.postimg.cc/qqwWwHNz/1200px-Lifetime-tv-logo-svg.png",Lifetime HD (ENG)
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/567
+#EXTINF:-1 group-title="MUNDO" tvg-logo="https://i.postimg.cc/FzHT9dKH/MSNBC-Logo-Full-Color-350x300.png",MSNBC HD ENG
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/596
+#EXTINF:-1 group-title="MUNDO" tvg-logo="https://i.postimg.cc/C1m46h4T/1280px-National-Geographic-Channel-svg.png",NATGEO
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/597
+#EXTINF:-1 group-title="MUNDO" tvg-logo="https://i.postimg.cc/C1mWHVBd/58428defa6515b1e0ad75ab4.png",NBA HD (ENG)
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/600
+#EXTINF:-1 group-title="MUNDO" tvg-logo="https://i.postimg.cc/vZ2hzHXJ/1200px-WNBC-4-NY-svg.png",NBC NEW YORK
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/601
+#EXTINF:-1 group-title="MUNDO" tvg-logo="https://i.postimg.cc/wTDTVvz7/1200px-Galavision-Logo-2013-svg.png",GALAVISION
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/556
+#EXTINF:-1 group-title="MUNDO" tvg-logo="https://i.postimg.cc/Nfz2C9qk/image.png",NFL NETWORK
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/616
+#EXTINF:-1 group-title="MUNDO" tvg-logo="https://i.postimg.cc/7ZzhBKNq/Olympic-Channel-logo.png",OLYMPIC CHANNEL  HD (ENG)
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/624
+#EXTINF:-1 group-title="MUNDO" tvg-logo="https://i.postimg.cc/0NqYZMDH/image.png",SYFY
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/652
+#EXTINF:-1 group-title="MUNDO" tvg-logo="https://i.postimg.cc/sxSSp31R/1024px-TNT-Logo-2016-svg.png",TNT
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/660
+#EXTINF:-1 group-title="MUNDO" tvg-logo="https://i.postimg.cc/RV5zkwp1/2560px-Tooncast-logo-svg.png",TOONCAST
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/725
+#EXTINF:-1 group-title="MUNDO" tvg-logo="https://i.postimg.cc/SQ7tF4DP/312-Lh-Qs-Vqt-L.png",A&E ENG HD
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/482
+#EXTINF:-1 group-title="MUNDO" tvg-logo="https://i.postimg.cc/4NyvLRMV/Cozi-Logo-300px-white.png",COZI
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/505
+#EXTINF:-1 group-title="MUNDO" tvg-logo="https://i.postimg.cc/MH2TyRh9/1200px-Destination-America-logo-svg.png",DESTINATION AMERICA
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/508
+#EXTINF:-1 group-title="MUNDO" tvg-logo="https://i.postimg.cc/qR7cPfRP/Motor-trend-od-logo.png",VELOCITY
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/669
+#EXTINF:-1 group-title="MUNDO" tvg-logo="https://i.postimg.cc/3rVFGLr3/1200px-Disney-Channel-logo-2014-svg.png",DISNEY
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/512
+#EXTINF:-1 group-title="MUNDO" tvg-logo="https://i.postimg.cc/d0VypdQW/Disney-Junior-Logo.png",DISNEYJR
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/513
+#EXTINF:-1 group-title="MUNDO" tvg-logo="https://i.postimg.cc/Hs17HFs8/2560px-Logo-Disney-XD-svg.png",DISNEYXD
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/514
+#EXTINF:-1 group-title="MUNDO" tvg-logo="https://i.postimg.cc/SNVZm8q5/El-Nueve.png",NUEVE 9
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/719
+#EXTINF:-1 group-title="MUNDO" tvg-logo="https://i.postimg.cc/CLvn375W/Oprah-Winfrey-Network-logo-orange.png",OWN
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/627
+#EXTINF:-1 group-title="MUNDO" tvg-logo="https://i.postimg.cc/xChnGk1p/Oxygen-TV-channel-new-logo.png",OXYGEN
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/628
+#EXTINF:-1 group-title="MUNDO" tvg-logo="https://i.postimg.cc/fWx6q03n/image.png",Lifetime Movie
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/568
+#EXTINF:-1 group-title="MUNDO" tvg-logo="https://i.postimg.cc/MGML7ckL/Nat-Geo-Mundo-m.png",NATGEO MUNDO HD
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/598
+#EXTINF:-1 group-title="MUNDO" tvg-logo="https://i.postimg.cc/N0nWS3v5/revolt-logo.png",REVOLT MUSIC
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/640
+#EXTINF:-1 group-title="MUNDO" tvg-logo="https://i.postimg.cc/L5r1Y6Pj/800px-Fox-Sports-wordmark-logo-svg.png",FOX DEPORTES HD
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/531
+#EXTINF:-1 group-title="MUNDO" tvg-logo="https://i.postimg.cc/59ZgFxbP/image.png",FS1
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/549
+#EXTINF:-1 group-title="MUNDO" tvg-logo="https://i.postimg.cc/qRNczFYV/image.png",FS2
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/550
+#EXTINF:-1 group-title="MUNDO" tvg-logo="https://i.postimg.cc/3NCkRCKQ/original.png",FOXCOLLEGESPORTSCENTRAL
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/542
+#EXTINF:-1 group-title="MUNDO" tvg-logo="https://i.postimg.cc/7PMhS9yp/2560px-Golf-Channel-Latin-America-Logo-svg.png",GOLF CHANNEL HD
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/558
+#EXTINF:-1 group-title="MUNDO" tvg-logo="https://i.postimg.cc/tRPSk1S0/kisspng-mtv-live-hd-logo-tv-television-channel-viacom-medi-live-5b1147440fe917-943792901527859012065.jpg",MTV LIVE
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/737
+#EXTINF:-1 group-title="MUNDO" tvg-logo="https://i.postimg.cc/QNkgVcYM/2560px-Nick-svg.png",Nickelodeon HD (ENG)
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/754
+#EXTINF:-1 group-title="MUNDO" tvg-logo="https://i.postimg.cc/YqCF9ZmX/640px-TBS-logo-2016-svg.png",TBS
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/758
+#EXTINF:-1 group-title="MUNDO" tvg-logo="https://i.postimg.cc/Hs8pBtGY/1200px-Bit-Me-logo-svg.png",TIIN
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/759
+#EXTINF:-1 group-title="MUNDO" tvg-logo="https://i.postimg.cc/c4Gskndf/1200px-Tru-TV-2014-svg.png",TRUTV ESP
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/760
+#EXTINF:-1 group-title="MUNDO" tvg-logo="https://i.postimg.cc/rs1L2fqx/Ve-Plus-Logo-2019.png",VEPLUSTV
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/762
+#EXTINF:-1 group-title="MUNDO" tvg-logo="https://i.postimg.cc/BZghRW0N/image.png",REDBULL TV
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/756
+#EXTINF:-1 group-title="MUNDO" tvg-logo="https://i.postimg.cc/yNh60hJf/nbcs-stacked-fc-pos.png",SPORTSBAYAREA
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/644
+#EXTINF:-1 group-title="MUNDO" tvg-logo="https://i.postimg.cc/tgDQXBnH/nbc-sports-boston-m.png",SPORTS BOSTON
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/645
+#EXTINF:-1 group-title="MUNDO" tvg-logo="https://i.postimg.cc/RFkz8Nn3/nbc-sports-california-m.png",SPORTSCALIFORNIA
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/646
+#EXTINF:-1 group-title="MUNDO" tvg-logo="https://i.postimg.cc/m24vHx3G/Nbc-sports-chicago.png",SPORTSCHICAGO
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/647
+#EXTINF:-1 group-title="MUNDO" tvg-logo="https://i.postimg.cc/gkG70Vdz/SPMN-logo-Red.png",SPORTSMAN CHANNEL
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/648
+#EXTINF:-1 group-title="MUNDO" tvg-logo="https://i.postimg.cc/Y2fpjwNL/800px-Food-Network-logo-svg.png",FOODNETWORK
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/528
+#EXTINF:-1 group-title="MUNDO" tvg-logo="https://i.postimg.cc/pdfsVZx0/FXM.png",FXM
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/553
+#EXTINF:-1 group-title="MUNDO" tvg-logo="https://i.postimg.cc/cHXGD39J/IMAGEN-TELEVISION.png",IMAGEN NOTICIAS SD
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/712
+#EXTINF:-1 group-title="MUNDO" tvg-logo="https://i.postimg.cc/CK0dBjpJ/hgtv-svg-0.png",TRAVEL HD
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/661
+#EXTINF:-1 group-title="MUNDO" tvg-logo="https://i.postimg.cc/764Xb47C/jsonld-publisher.png",TV5
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/775
+#EXTINF:-1 group-title="MUNDO" tvg-logo="https://i.postimg.cc/KYFwW2b2/1200px-Boomerang-2014-logo-svg.png",BOOMERANG MEXICO
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/680
+#EXTINF:-1 group-title="MUNDO" tvg-logo="https://i.postimg.cc/FsM0KbFj/canal-5.png",Canal 5
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/681
+#EXTINF:-1 group-title="MUNDO" tvg-logo="https://i.postimg.cc/T15PSK2F/2560px-Cartoon-Network-2010-logo-svg.png",CARTOON NETWORK
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/683
+#EXTINF:-1 group-title="MUNDO" tvg-logo="https://i.postimg.cc/zB202LC0/M-rbido-TV.png",Morbido-TV
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1182
+#EXTINF:-1 group-title="MUNDO" tvg-logo="https://i.postimg.cc/jS5PChDp/image.png",UNIVERSALKIDS
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/664
+#EXTINF:-1 group-title="MUNDO" tvg-logo="https://i.postimg.cc/SNHC24k4/axs-tv-logo.png",AXS TV
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1189
+#EXTINF:-1 group-title="Music" tvg-logo="http://www.vibee.tv/wp-content/uploads/2019/03/logo_v2beat_page_small-1-2.png",V2BEAT TV
+https://abr.de1se01.v2beat.live/playlist.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.postimg.cc/mgPdmJ42/mtv-old-logo.png",MTV Yo!
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.postimg.cc/7ZpfzGXY/mtv-logo-hd-BIGES-TOP.png",MTV Biggest Pop
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.postimg.cc/BvbfJM2j/MTV-BOLCK-PARTY.png",MTV Block Party
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.postimg.cc/rmKJyYVY/MTV-SPAKIN.png",MTV Spankin New
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/NBWyJJQ.png",Shanson TV (Opt-1)
+http://hls.shansontv.cdnvideo.ru/shansontv/smil:shansontv.smil/playlist.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="http://i.imgur.com/QZQhg6C.png",Magic TV
+https://itv.streams.ovh/magictv/magictv/playlist.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.imgur.com/fcnRf1f.png",FTV midnight
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.imgur.com/fcnRf1f.png",FTV Paris
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.imgur.com/fcnRf1f.png",Fashion TV (UHD)
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://terapiasexo.com/wp-content/uploads/2016/09/logo-miami-tv.png",Miami TV Live
+http://59ec5453559f0.streamlock.net:1935/mexicotv/smil:miamitvmexicoROKU/chunklist_b1896000.m3u8?fluxuslust.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://terapiasexo.com/wp-content/uploads/2016/09/logo-miami-tv.png",Miami TV
+http://59ec5453559f0.streamlock.net:1935/miamitv/smil:miamitv/chunklist.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://terapiasexo.com/wp-content/uploads/2016/09/logo-miami-tv.png",Miami TV Colombia
+http://59ec5453559f0.streamlock.net:1935/mexicotv/smil:miamitvmexicoROKU/chunklist_b1896000.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.imgur.com/mR1I8hE.png",A3Bikini TV
+https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/seglist_720p.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://satcesc.com/wp-content/uploads/2013/11/Visit-X-TV.jpg",Visit-X
+http://stream.visit-x.tv:1935/vxtv/live/playlist.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.postimg.cc/mDRxvwmY/MUSIC-TOP.png",MUSIC TOP
+http://live-edge01.telecentro.net.ar/live/musictop.smil/.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.postimg.cc/76stwGyc/PORTAL-FOX-MIX.png",PORTAL FOX MIX
+http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/chunklist_w707723531.m3u8
+#EXTINF:-1 group-title="Informativos" tvg-logo="https://i.postimg.cc/hjQmP0g4/24-HORAS.png",24h
+https://rtvelivestream.akamaized.net/segments/24h/24h_main_dvr.m3u8
+#EXTINF:-1 group-title="Informativos" tvg-logo="https://i.postimg.cc/YSMF7T4k/7-NN-TV-esp.png",7NN Noticias
+https://amg01573-7nn-7nnono-ono-pcdj3.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Infantiles" tvg-logo="https://graph.facebook.com/cartoonnetwork.spain/picture?width=200&height=200",Cartoon Network Latino
+https://playout.cdn.cartoonnetwork.com.br/playout_03/playlist.m3u8
+#EXTINF:-1 group-title="Andalucía" tvg-logo="https://www.cancionero.es/portal/images/imagesweb/LogoTV_Trans.png",Cancionero TV
+http://89.140.229.4/hls1/cancionero.m3u8
+#EXTINF:-1 group-title="Cataluña" tvg-logo="https://i.postimg.cc/sX4d86BM/logo-tve-2-750699.png",La 2 Catalunya
+https://rtvelivestream.akamaized.net/segments/cat/la2_cat_main_dvr.m3u8
+#EXTINF:-1 group-title="Int. Europa" tvg-logo="https://i.postimg.cc/43Jx39zH/SPORT-ITALIA-SOLOCALCIO.png",Sport Italia IT
+https://sportitaliaamd.akamaized.net/video_0/Sportitalia/hls/B4DF7411EF2D38AD98B7D9FA9612B9753F214EFA/index.m3u8
+#EXTINF:-1 group-title="Int. Europa" tvg-logo="https://i.postimg.cc/xCXwtfv1/SPORT-ITALIA-PLUS-DIRETTA.png",Sport Italia
+https://sportitaliaamd.akamaized.net/video_0/Sportitalia/hls/A35A86245F13B326BB177D133E45311C8D046D71/index.m3u8
+#EXTINF:-1 group-title="Int. Europa" tvg-logo="https://i.postimg.cc/4x4FW4ZR/SPORT-ITALIA-LIVE-24.png",Sport Italia
+https://sportitaliaamd.akamaized.net/video_0/Sportitalia/hls/1A15BA14BC564CE1C312973FF46193A8969E2C31/index.m3u8
+#EXTINF:-1 group-title="Int. América" tvg-logo="https://i.postimg.cc/D0Yyxrw4/Am-rica-Tev.png",America TeVe USA
+https://uni01rtmp.tulix.tv/americateve1/americateve1/master.m3u8
+#EXTINF:-1 group-title="Int. América" tvg-logo="https://i.postimg.cc/0NKgC5d2/CANAL-ANTIGUA.png",Canal Antigua Guatemala
+https://streannlivefeedlatino.cachefly.net/feedlatino1/feedlatino1/playlist.m3u8
+#EXTINF:-1 group-title="Int. América" tvg-logo="https://graph.facebook.com/TeleamazonasEcuador/picture?width=200&height=200",TeleAmazonas Ecuador
+https://api.new.livestream.com/accounts/1359588/events/9942377/live.m3u8
+#EXTINF:-1 group-title="Int. Otros" tvg-logo="https://i.postimg.cc/GpsLpn2V/miami-tv.png",Miami TV
+https://59ec5453559f0.streamlock.net/miamitv/smil:miamitv/playlist.m3u8
+#EXTINF:-1 group-title="Int. Otros" tvg-logo="https://i.postimg.cc/ydxk9QWp/miami-tv-LATINO.png",Miami TV
+https://5ee7c2b857b7f.streamlock.net/latino/latino/playlist.m3u8
+#EXTINF:-1 group-title="Int. Otros" tvg-logo="https://i.postimg.cc/jjvWzbK5/miami-tv-live.png",Miami TV
+https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/playlist.m3u8
+#EXTINF:-1 group-title="Musicales" tvg-logo="https://i.postimg.cc/fbwbBrTr/euro-latina.png",EuroLatina TV España
+https://media2.streambrothers.com:1936/8150/8150/playlist.m3u8
