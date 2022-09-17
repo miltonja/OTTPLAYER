@@ -83,8 +83,6 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/729
 #EXTINF:-1 group-title="MUNDO" tvg-logo="https://i.postimg.cc/XvwPxnYw/Bravo-TV.png",Bravo (ENG)
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/489
-#EXTINF:-1 group-title="MUNDO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/DistritoComediaLOGO2018.png",DISTRITO COMEDIA
-http://us1-external-sources.iptvserver.tvhttps://i.postimg.cc/pT9MZg3x/ENTERTAIMENT.png:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/691
 #EXTINF:-1 group-title="MUNDO" tvg-logo="https://i.postimg.cc/pT9MZg3x/ENTERTAIMENT.png",E! Entertaiment USA
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/516
 #EXTINF:-1 group-title="MUNDO" tvg-logo="https://i.postimg.cc/Gmx8t7Tk/ESPN-VIVO.png",ESPN1
@@ -249,16 +247,12 @@ http://89.140.229.4/hls1/cancionero.m3u8
 https://rtvelivestream.akamaized.net/segments/cat/la2_cat_main_dvr.m3u8
 #EXTINF:-1 group-title="Int. Europa" tvg-logo="https://i.postimg.cc/43Jx39zH/SPORT-ITALIA-SOLOCALCIO.png",Sport Italia IT
 https://sportitaliaamd.akamaized.net/video_0/Sportitalia/hls/B4DF7411EF2D38AD98B7D9FA9612B9753F214EFA/index.m3u8
-#EXTINF:-1 group-title="Int. Europa" tvg-logo="https://i.postimg.cc/xCXwtfv1/SPORT-ITALIA-PLUS-DIRETTA.png",Sport Italia
-https://sportitaliaamd.akamaized.net/video_0/Sportitalia/hls/A35A86245F13B326BB177D133E45311C8D046D71/index.m3u8
 #EXTINF:-1 group-title="Int. Europa" tvg-logo="https://i.postimg.cc/4x4FW4ZR/SPORT-ITALIA-LIVE-24.png",Sport Italia
 https://sportitaliaamd.akamaized.net/video_0/Sportitalia/hls/1A15BA14BC564CE1C312973FF46193A8969E2C31/index.m3u8
 #EXTINF:-1 group-title="Int. América" tvg-logo="https://i.postimg.cc/D0Yyxrw4/Am-rica-Tev.png",America TeVe USA
 https://uni01rtmp.tulix.tv/americateve1/americateve1/master.m3u8
 #EXTINF:-1 group-title="Int. América" tvg-logo="https://i.postimg.cc/0NKgC5d2/CANAL-ANTIGUA.png",Canal Antigua Guatemala
 https://streannlivefeedlatino.cachefly.net/feedlatino1/feedlatino1/playlist.m3u8
-#EXTINF:-1 group-title="Int. América" tvg-logo="https://graph.facebook.com/TeleamazonasEcuador/picture?width=200&height=200",TeleAmazonas Ecuador
-https://api.new.livestream.com/accounts/1359588/events/9942377/live.m3u8
 #EXTINF:-1 group-title="Int. Otros" tvg-logo="https://i.postimg.cc/GpsLpn2V/miami-tv.png",Miami TV
 https://59ec5453559f0.streamlock.net/miamitv/smil:miamitv/playlist.m3u8
 #EXTINF:-1 group-title="Int. Otros" tvg-logo="https://i.postimg.cc/ydxk9QWp/miami-tv-LATINO.png",Miami TV
